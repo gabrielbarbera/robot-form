@@ -1,0 +1,7 @@
+.tc.bg-light-green.div.br3.pa3.ma2.grow.bw2.shadow-5 {
+    width: 30%;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
